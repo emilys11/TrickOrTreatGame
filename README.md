@@ -1,2 +1,3 @@
 # TrickOrTreatGame
-My first Java game
+This is my first Java game.
+It requires jdk 23.
