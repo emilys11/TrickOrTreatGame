@@ -1,3 +1,4 @@
 # TrickOrTreatGame
 This is my first Java game.
-It requires jdk 23.
+You can choose to download the exe or the jar file in the master branch
+Both files require Java.
